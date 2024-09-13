@@ -7,7 +7,7 @@ responsive website created with `html` , `css` , `javascript`
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## how to run
-just open IDE or code editor and run it, it dose not have any dependency
+just open IDE or code editor and run it, it dose not have any dependency.
 
 ## online demo
 [camping-site](https://amirhossein-gorzin.github.io/Camping-landing-page)
