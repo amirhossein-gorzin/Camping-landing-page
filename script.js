@@ -12,6 +12,5 @@ navBtn.addEventListener('click', function() {
         barsIcon.style.display = 'block';
         timesIcon.style.display = 'none';
         navMenu.style.left='-24rem'
-
     }
 });
